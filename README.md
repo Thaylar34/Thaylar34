@@ -40,7 +40,6 @@
 
 ### TCHAU...
 
-![Snake animation](https://github.com/Thaylar34/Thaylar34/blob/output/github-contribution-grid-snake.svg)
 
 
 
