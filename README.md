@@ -32,10 +32,7 @@
 ## Caso queiram entrar em contato comigo, é só clicar os links abaixo.
 
 
-<div>
-<a href="https://www.facebook.com/thaylatroise?mibextid=LQQJ4d" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/euthayla_ramos?igsh=eGt4eWh4YmZ3cGFi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thayla-ramos-de-oliveira-ign%C3%A1cio-da-silva-97a716217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
 
 ## Espero que tenham gostado do meu perfil.
 
@@ -43,7 +40,9 @@
 
 ### TCHAU...
 
-<div class="tenor-gif-embed" data-postid="9872673187939618574" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/peach-and-goma-gif-9872673187939618574">Peach And Goma GIF</a>from <a href="https://tenor.com/search/peach+and+goma-gifs">Peach And Goma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Snake animation](https://github.com/Thaylar34/Thaylar34/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
