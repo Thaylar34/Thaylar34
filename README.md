@@ -1,7 +1,9 @@
 ## Meu nome é Thayla Ramos de Oliveira Ignácio da Silva   
 ### Bem vindo ao meu perfil 👋
 
-![octocat-1714892770996](https://github.com/Thaylar34/Thaylar34/assets/110705852/68b9f9f5-2f3e-4603-990f-f0455597e90d)
+<div align="center">
+<img src="https://github.com/Thaylar34/Thaylar34/assets/110705852/aad3ac4e-bda0-4b20-bdf5-f0a7aa342e01" width="300px" />
+</div>
 
 <div align-"center">
 <img scr="![octocat-1714892770996](https://github.com/Thaylar34/Thaylar34/assets/110705852/d6cfa26a-bab7-481a-93de-8b7ceca46125)" width= "700px" /></div></div>
