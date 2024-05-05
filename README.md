@@ -29,13 +29,20 @@
 
 ## Contatos
 
-## Caso queiram entrar em contato comigo, é só clicar os links abaixo.##
+## Caso queiram entrar em contato comigo, é só clicar os links abaixo.
 
 
 <div>
 <a href="https://www.facebook.com/thaylatroise?mibextid=LQQJ4d" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/euthayla_ramos?igsh=eGt4eWh4YmZ3cGFi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thayla-ramos-de-oliveira-ign%C3%A1cio-da-silva-97a716217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+## Espero que tenham gostado do meu perfil.
+
+#Até a próxima 
+
+TCHAU...
+
 
 
 
