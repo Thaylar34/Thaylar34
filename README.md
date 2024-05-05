@@ -6,7 +6,7 @@
 <div align-"center">
 <img scr="![octocat-1714892770996](https://github.com/Thaylar34/Thaylar34/assets/110705852/d6cfa26a-bab7-481a-93de-8b7ceca46125)" width= "700px" /></div></div>
 
-<!--
+<!-
 *Conheça um pouco sobre mim.* 
 
  - :woman: Pronome Ela/dela
@@ -17,7 +17,7 @@
  - :book: :school_satchel: Estudando Git, Gihub, e HTML CSS
  - :bookmark_tabs: Fiz um Porfólio no ano de 2022 que foi o projeto final das aulas de HTML CSS
  - :heart_eyes: Amo manga
--->
+->
 
 <div>
 <a href="https://github.com/Thaylar34">
